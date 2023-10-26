@@ -1,0 +1,18 @@
+.img1{
+    height: 40px;
+    width: fit-content;
+}
+
+h1{
+    background-color: rgb(230, 60, 60);
+    color: whitesmoke;
+}
+
+body{
+    margin: 0px 80px 0px 80px;
+    width: auto;
+}
+
+a{
+color: blue;
+}
