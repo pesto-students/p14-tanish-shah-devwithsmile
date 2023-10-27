@@ -3,9 +3,17 @@ body{
 }
 
 h1{
-    color: #4c5454;
+    color: #1a456b;
 }
 
 li{
-    color: #158a8a;
+    color: #296CA8;
+}
+
+.age{
+    font-style: italic;
+}
+
+.recommend{
+   background-color: yellow;
 }
