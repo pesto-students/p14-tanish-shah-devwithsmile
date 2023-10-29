@@ -1,25 +1,33 @@
-
-h1{
+h1 {
     display: inline-block;
 }
+
 @keyframes questionAnime {
     100% {
         transform: scale(0.9);
-     }
+    }
 }
 
-@keyframes ansAnime{
-    0%{color: yellow;
-    transform: translate(-355px, 60px);}
-    50%{transform: translate(0px, 60px);}
-    100%{transform: translate(0px, 0px);
-    color: red;}
+@keyframes ansAnime {
+    0% {
+        color: yellow;
+        transform: translate(-355px, 60px);
+    }
+
+    50% {
+        transform: translate(0px, 60px);
+    }
+
+    100% {
+        transform: translate(0px, 0px);
+        color: red;
+    }
 }
 
-.Question:hover{
+.Question:hover {
     animation: questionAnime 2s ease-in-out infinite;
 }
 
-.ans{
+.ans {
     animation: ansAnime 3s infinite;
 }
