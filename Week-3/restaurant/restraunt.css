@@ -1,0 +1,41 @@
+
+div{
+    margin-bottom: 15px;
+}
+
+p{
+    font-weight: 100;
+}
+
+footer{
+    font-size: smaller;
+    margin-top: 20px;
+}
+
+
+.nav-ol{
+    display:contents;
+}
+.nav-elements{
+    display: inline;
+    margin: 10px;
+}
+
+.cafe-img{
+    height: 300px;
+    width: 600px;
+
+}
+
+.rating{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.details{
+    margin-top: 10px;
+    
+}
+.address{
+    margin-top: 40px;
+}

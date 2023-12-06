@@ -1,0 +1,12 @@
+span{
+    color: red;
+}
+
+.blue{
+    background-color: aquamarine;
+}
+
+.labels{
+    display: inline-block;
+    width: 17%;
+}

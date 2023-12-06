@@ -1,0 +1,19 @@
+body{
+    background-color: #c5f0f0;
+}
+
+h1{
+    color: #1a456b;
+}
+
+li{
+    color: #296CA8;
+}
+
+.age{
+    font-style: italic;
+}
+
+.recommend{
+   background-color: yellow;
+}
